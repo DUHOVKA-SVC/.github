@@ -1,1 +1,1 @@
-# .github
+# Oficiální organizace DUHOVKA SVČ
